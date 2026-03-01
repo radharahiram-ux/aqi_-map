@@ -30,7 +30,7 @@
 
 ---
 
-# 📖 Table of Contents
+## 📖 Table of Contents
 
 - [Motivation](#-motivation)
 - [Live Demo](#-live-demo)
